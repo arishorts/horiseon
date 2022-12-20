@@ -1,3 +1,4 @@
+/*Global Selector*/
 * {
   box-sizing: border-box;
   padding: 0;
@@ -80,7 +81,7 @@ p {
   margin-left: 20px;
 }
 
-/*ASIDE CSS*/
+/*ASIDE*/
 
 .benefits {
   margin-right: 20px;
